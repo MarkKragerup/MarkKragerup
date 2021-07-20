@@ -17,10 +17,10 @@
 [] linkedin
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MarkKragerup&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MarkKragerup&show_icons=true&theme=calm" alt="github stats" width="45%" align="right"/>
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkKragerup&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkKragerup&theme=calm" width="48%" >
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKragerup&layout=compact)
