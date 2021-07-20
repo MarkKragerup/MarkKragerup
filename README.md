@@ -48,5 +48,4 @@
 ### Coming soon
 - [ ] Link to blog
 - [ ] Link to Org profile
-- [ ] Link to website
 - [ ] Link to Mathias Github
