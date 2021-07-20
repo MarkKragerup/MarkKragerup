@@ -10,17 +10,13 @@
 
 💬 So, ask me about all things, i am always eager to help a fellow developer out.
 
-📫 How to reach me: markido@live.dk
+📫 How to reach me: markido@live.dk or on [LinkedIn](https://www.linkedin.com/in/mark-kragerup-a112b6140/)
 
+⚡ Fun fact: I published an article on my research and engineering utilizing ESLint as a tool to automatically fix security vulnerabilities in Javascript! [Check it out](https://link.springer.com/chapter/10.1007/978-3-030-65745-1_13)
 
-
-⚡ Fun fact: I published an article on my research and engineering utilizing ESLint as a tool to automatically fix security vulnerabilities in Javascript! check it out: https://link.springer.com/chapter/10.1007/978-3-030-65745-1_13
-
-[] blog
-[] stackoverflow
-[] linkedin
-
-### Public Github Streaks, Stats & Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKragerup&layout=compact&theme=calm" alt="github languages" width="60%" />
+</p>
 
 <div>
   
@@ -30,8 +26,11 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKragerup&layout=compact&theme=calm" alt="github languages" width="70%"/>
-
+### Coming soon
+- [ ] Link to blog
+- [ ] Link to Org profile
+- [ ] Link to website
+- [ ] Link to Mathias Github
 
   
 
