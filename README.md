@@ -16,9 +16,9 @@
 [] stackoverflow
 [] linkedin
 
-### Github Streaks & Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MarkKragerup&show_icons=true&theme=calm" alt="github stats" width="48%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkKragerup&theme=calm" width="48%" >
+### Public Github Streaks & Stats
+<img src="https://github-readme-stats.vercel.app/api?username=MarkKragerup&show_icons=true&theme=calm" alt="github stats" width="49%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkKragerup&theme=calm" width="49%" >
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKragerup&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKragerup&layout=compact&theme=calm)
