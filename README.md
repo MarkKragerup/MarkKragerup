@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Mark, and im a huge Node.js and Typescript fan! 🎈 My passion is all things Dev-Sec-Ops 🛡️
 
-<!--
-**MarkKragerup/MarkKragerup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently starting a small software incubator with my partner @Hoyerup. We do all sorts of fun projects!
 
-Here are some ideas to get you started:
+🌱 I’m currently learning mobile app development, through Ionic as well as Unity game engine. Frontend was always weak point, untill React.js found me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on all sorts of projects. I do freelance, open source and volunteer work, collabarations and tutoring!
+
+💬 So, ask me about all things, i am always eager to help a fellow developer out.
+
+📫 How to reach me: markido@live.dk
+
+⚡ Fun fact: I published an article on my research and engineering utilizing ESLint as a tool to automatically fix security vulnerabilities in Javascript! check it out: https://link.springer.com/chapter/10.1007/978-3-030-65745-1_13
+
+[] blog
+[] stackoverflow
+[] linkedin
+
