@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Mark, and im a huge Node.js and Typescript fan! 🎈 My passion is all things Dev-Sec-Ops 🛡️
 --- 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarkKragerup.repoName)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MarkKragerup.repoName" align="right"/>
 
 🔭 I’m currently starting a small software incubator with my partner @Hoyerup. We do all sorts of fun projects!
 
