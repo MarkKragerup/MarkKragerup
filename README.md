@@ -10,19 +10,20 @@
 
 📫 How to reach me: markido@live.dk
 
+
+
 ⚡ Fun fact: I published an article on my research and engineering utilizing ESLint as a tool to automatically fix security vulnerabilities in Javascript! check it out: https://link.springer.com/chapter/10.1007/978-3-030-65745-1_13
 
 [] blog
 [] stackoverflow
 [] linkedin
 
-### Public Github Streaks & Stats
+### Public Github Streaks, Stats & Languages
 
+<div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkKragerup&theme=calm" width="48%" >
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarkKragerup&show_icons=true&theme=calm" alt="github stats" width="48%" align="right"/>
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKragerup&theme=calm)
-
+</div>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKragerup&layout=compact&theme=calm)
