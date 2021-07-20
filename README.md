@@ -31,7 +31,6 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
----
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKragerup&layout=compact&theme=calm" alt="github languages" width="60%" />
