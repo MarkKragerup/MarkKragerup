@@ -2,9 +2,9 @@
 --- 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MarkKragerup.repoName" align="right"/>
 
-🔭 I’m currently starting a small software incubator with my partner @Hoyerup. We do all sorts of fun projects!
+🔭 I’m currently starting a small software incubator with my partner [@Hoyerup](https://github.com/MathiasHoeyrup). We do all sorts of fun projects!
 
-🌱 I’m currently learning mobile app development, through Ionic as well as Unity game engine. Frontend was always weak point, untill React.js found me!
+🌱 I’m currently learning mobile app development through Ionic, as well as Unity game engine. Frontend was always my weak point, untill React.js found me!
 
 👯 I’m looking to collaborate on all sorts of projects. I do freelance, open source and volunteer work, collabarations and tutoring!
 
@@ -43,8 +43,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MarkKragerup&show_icons=true&theme=calm" alt="github stats" width="48%" align="right"/>
 
 </div>
-
-### Coming soon
-- [ ] Link to blog
-- [ ] Link to Org profile
-- [ ] Link to Mathias Github
